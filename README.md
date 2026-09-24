@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Feedants — Competition Details Screen
 
 This project is a full-stack implementation of the **Competition Details screen** based on the provided design.
@@ -421,3 +422,7 @@ The main focus of this implementation was not just reproducing the UI, but makin
 The most important part was making sure that **spots cannot be oversold**, registration state stays consistent between the backend and frontend, and payment holds can expire without permanently consuming competition spots.
 
 For a production version, the next priorities would be TypeScript, Redis-based reservation handling, direct video uploads, proper internationalization, observability, and automated testing.
+=======
+# Feedants
+This project is a full-stack implementation of the **Competition Details screen** based on the provided design.  The frontend is built with **React Native (Expo)**, while the backend uses **Node.js, Express, and MongoDB**. 
+>>>>>>> 105a1bf62ddbf5a796fad593f6b82ce429e0df98
